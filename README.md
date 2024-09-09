@@ -15,6 +15,6 @@ This is a basic implementation of the classic Tic Tac Toe game, created using Py
 2. Open in Jupyter:
    - Open the notebook in Jupyter Notebook or JupyterLab.
 3. Run the Notebook:
-  - Execute the cells in the notebook to define the functions and start the game.
+   - Execute the cells in the notebook to define the functions and start the game.
 4. Play the Game:
-  - Follow the instructions in the notebook cells to take turns and play the game.
+   - Follow the instructions in the notebook cells to take turns and play the game.
